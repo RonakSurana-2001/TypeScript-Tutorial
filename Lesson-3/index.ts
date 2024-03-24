@@ -1,0 +1,7 @@
+let character=5
+
+let add=(num1:number,num2:number)=>{
+    return num1+num2
+}
+
+console.log(add(2,5))
